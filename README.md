@@ -1,5 +1,5 @@
-# assembly
-Lista 3
+# Assembly
+Lista 2
 Fazer, em Assembly MIPS, algoritmos que resolvam os problemas abaixo (Utilizando apenas
 tipo Inteiro de dados):
 1. Receba os valores do comprimento, largura e altura de um paralelepípedo. Calcule e mostre
